@@ -1,1 +1,2 @@
 This a file. A very nice file. Treat it with care
+This is a change in my nice file
